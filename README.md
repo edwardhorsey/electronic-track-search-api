@@ -1,6 +1,6 @@
 # Electronic Track Search API
 
-An API built in nodeJS create for my Electronic Track Search project. Link here => https://github.com/edwardhorsey/electronic-track-search
+An API built in nodeJS. Created for my Electronic Track Search project. Link here => https://github.com/edwardhorsey/electronic-track-search
 
 The API performs two searches:
 1. Receives an artist name and track name and returns:
