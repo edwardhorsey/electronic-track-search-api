@@ -14,3 +14,6 @@ The API is hosted on Heroku. If your first search takes longer than 10 seconds, 
 Issues:
 
 * 429 Errors - When running Google Custom Searches I would sometimes reach the daily limit of query results. I am currently researching alternative options to overcome this. In the meantime if one is to receive a 429 error on this app and thus receive less than 1 DJ Mix result back it will pull from a list of my favourite mixes and render those to the page instead.
+
+## Update 10/08/20
+I have transfered this API onto Amazon API Gateway and AWS Lambda.
